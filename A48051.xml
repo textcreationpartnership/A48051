@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter from Dublin in Ireland containing a remarkable discovery of a horrid design of the papists to destroy that city by fire : discovered to the lord justices : together with their lordships proclamation for commanding all papists to depart ten miles out of the city : with other remarkable occurrences relating to that kingdom.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48051</idno><idno type="EEBO-CITATION">15666402</idno>
+  <idno type="VID">104300</idno>
+  <idno type="EEBO-PROQUEST">2240902460</idno>
+  
+            <idno type="STC">Wing L1459</idno>
+            <idno type="STC">ESTC R36327</idno>
+            <idno type="OCLC">15666402</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48051)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104300)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter from Dublin in Ireland containing a remarkable discovery of a horrid design of the papists to destroy that city by fire : discovered to the lord justices : together with their lordships proclamation for commanding all papists to depart ten miles out of the city : with other remarkable occurrences relating to that kingdom.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Proclamation dated: Given at the castle of Dublin the twentieth day of November, 1690, and in the second year of their reign.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Agents provocateurs --  Ireland --  17th century.</term>
+               <term type="topical_term">Anti-Catholicism.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:104300:1"/>
+            <pb facs="tcp:104300:1"/>
+            <head>A LETTER From <hi>DUBLIN</hi> in IRELAND, CONTAINING A Remarkable Discovery of a horrid Design of the Papists, to de<g ref="char:EOLhyphen"/>stroy that City by Fire, discovered to the Lord Justices, toge<g ref="char:EOLhyphen"/>ther with their Lordships Proclamation, for Commanding all Pa<g ref="char:EOLhyphen"/>pists to depart Ten miles out of the City, with other remarkable Occurrences relating to that Kingdom.</head>
+            <head>Licensed according to Order.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE 28th of <hi>November,</hi> 1690. One Mr. <hi>Gamball</hi> arrived from <hi>Mullingar,</hi> who Commanded a Party of Horse in those Parts; who having Intelligence of some Persons who were straggling towards the Enemies Quarters through private ways, and through the Bogs, he went out after them and overtook them, near the Edge of the Mountain; but the Evening being dark he could not pursue them so close as to seize any of them, but found a Bag of <hi>Oatmeal;</hi> a Roll of <hi>Tobacco,</hi> and an old Petti<g ref="char:EOLhyphen"/>coat, in the Petticoat were ten Letters quilted, and in a Cleft stick which was in the middle of the Tobacco Rolls, was another Letter, written by one Mrs. <hi>Hoegan,</hi> also <hi>Ruth Coffee</hi> (who was the Dutchess of <hi>Portsmouth</hi>'s Operator) to her Husband, who is a Collonel in King <hi>James</hi>'s Army. The Contents are as follow: She acquaints her Husband, that the English are very negligent and secure in their Quarters, by which means her Friends (meaning the Rapperies) have done very considerable Service in most Parts of the Kingdom, under the Obedience of the English, particularly, in the County of <hi>Wicklow,</hi> where they are in great Numbers daily doing good Service by cutting off the <hi>Hereticks,</hi> and plundering them of their Cattle; That there were some Horses and Kettle Drums lately taken from the English near <hi>Mullingar:</hi> That the French were not unmindful of them and their Cause; and <hi>Tyrconnel</hi> would soon visit them, with a very considerable Force from <hi>France;</hi> that the Soldiers in <hi>Dublin</hi> were very few and poor despicable Crea<g ref="char:EOLhyphen"/>tures; for having no Pay, they would doe any thing for a bit of Bread: So that if <hi>Sars<g ref="char:EOLhyphen"/>field</hi> moved over the <hi>Shannon,</hi> with any considerable Force, not only the Army, but the Militia would be drawn hence, and then her Friends here could easily set the Town on Fire, by doing it each in their own House and Lodgings, and whilst People were endea<g ref="char:EOLhyphen"/>vouring to save what was valuable from the Flames, they had force enough to destroy them. And she farther adds, that they could not for some time agree to the burning, lest the Records of the whole Kingdom should be burnt, but had now found out an ex<g ref="char:EOLhyphen"/>pedient to salve that Scruple, and therefore were fully resolved on that undertaking.</p>
+            <p>Mr. <hi>Gamball</hi> having brought the Woman to the Lords Justices, who had the Night before received his Majesties Letter for calling a Privy Council, they ordered him to attend at the Council, where were Sworn Ten of them, which were all that were in Town, <hi>viz.</hi> The Two Lords Justices, the Arch-bishop of <hi>Dublin,</hi> Lord <hi>Longford,</hi> Lord <hi>Drogheda,</hi> Lord <hi>Granard,</hi> Lord Bishop of <hi>Meath,</hi> Lord <hi>Lisburn,</hi> Captain <hi>Fitsgerald,</hi> and the Chancellour of the <hi>Exchequer,</hi> before whom Mr. <hi>Gamball</hi> produced the Letters, and gave an Account of the manner of finding them. Mrs. <hi>Hoegan</hi> being askt if she wrote that Letter, she confest she did, and thought no one could blame her for doing what she had done. The Counsel ad<g ref="char:EOLhyphen"/>journ'd till Five this Evening, and are now Sitting to consider of this Matter, and also what Course to take with the <hi>Papists</hi> which are taken into Custody, to prevent the michief designed.</p>
+            <p>Collonel <hi>Brewer</hi> hath taken great pains in fortifying <hi>Mullingar,</hi> and hath planted Guns on the Works, that there is no Danger of their descent that way: About Sixty five Prote<g ref="char:EOLhyphen"/>stant Women and some Children were sent by the Irish from <hi>Athlone</hi> under a Guard, who as soon as they brought them to the Bridge of <hi>Slain,</hi> most barbarously stripped them, not leaving them so much as would cover their Nakedness, Collonel <hi>Herbert</hi> being quartered at <hi>Longford</hi> was so exasperated at this usage, that he sent and stripp'd the Irish that were in the Villages adjacent to cloath them.</p>
+            <pb facs="tcp:104300:2"/>
+            <p>Here is a good Trade, and the Army are part Paid, and are daily receiving Money from the Treasury; so that by the indefatigable Pains and Care of our wise Governours, we do not question, but to have a good and speedy end of our Troubles.</p>
+         </div>
+         <div type="proclamation">
+            <head>By the Lords-Justices of <hi>Ireland,</hi> A Proclamation.</head>
+            <opener>
+               <salute>Sydney, Tho. Conningsby.</salute>
+            </opener>
+            <p>IT having been observed, that divers Papists, and others disaffected to the Government, some of whom are lately come out of the Enemy's Quarters, do daily resort unto this City of <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> and into the Liberties of S. <hi>Sepulcher</hi>'s, <hi>Thomas Court,</hi> and <hi>Donore;</hi> and do pre<g ref="char:EOLhyphen"/>sume not only in the Day, but in the Night time, to meet in Numbers, to the Intent, as We have great reason to apprehend, then to consult how to raise Disturbances, to the prejudice of their Majesties Government, and to continue the Rebellion in this Kingdom, as also to destroy this City by Fire, which some of them (as we are credibly inform'd) have threatned, and design to do. For Remedy therefore, of the Mischiefs that happen upon such Resort and Meetings; We do hereby strictly Charge, and Require all Persons w<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tsoever of the Popish Religion, who have not been noted House-Keepers within the City, or Liberties aforesaid, for the space of three Months last past, that within Forty Eight Hours after the Publishing of this our Proclamation, they do depart out of the said City, and Liberties, and rep<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> to their <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Habitations or other places in this Country▪ at least Ten Miles distant from this <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> if they shall neglect, or refuse to do, they shall <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> apprehended, and proceeded a<g ref="char:EOLhyphen"/>gainst, <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> designing the Disturbance of th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Publick Peace; And in order to the more eff<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctual Ex<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ution of this Our Proclamation, We <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>reby require the Lord-Mayor and Sheriffs of <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e City <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ublin,</hi> and the Seneschals of the said Liberties, to cause diligent Search and Enquir<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mediately after the time hereby limited for the departure of such Per<g ref="char:EOLhyphen"/>sons as aforesaid, <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all Houses and Places throughout the said City and Liberties, and a true Account to be taken of the N<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and Qualities of such as shall be found therein, not qualified as afore<g ref="char:EOLhyphen"/>said, which is forthwith to be returned unto Ʋs, under the Hands of the said Lord-Mayor and Sheriffs, and Seneschals of the said Liberties, whereupon we will give Order to have them pro<g ref="char:EOLhyphen"/>ceeded against with the utmost Rigour of Their Majesties Laws, and We do hereby farther Declare, That if any such Papist, or other Disaffected Person, after the Fourth Day of <hi>December</hi> next, not being House-Keepers as aforesaid, shall repair unto the said City or Liberties, and there abide by the space of Twenty Four Hours, after such Person, or Persons shall come thither, without rendring Him, Her, or Themselves, to the Lord-Mayor, or one of the Sheriffs or Al<g ref="char:EOLhyphen"/>dermen of the said City, or one of the Seneschals of the said Liberties, to the end it may be known in what House, or Parish, He, She, or They, take up His, Her, or their Lodging; or, if above the number of Five Papists, or Disaffected Persons, as aforesaid, whe<g ref="char:EOLhyphen"/>ther House-Keepers, or others, shall presume to meet together in any House, or place within the City, or Liberties aforesaid, on any pretence whatsoever either by Day, or by Night, or shall be out of His, Her, or Their Lodging, or Lodgings after Nine of the Clock at Night: In either of these Cases, if any Person, or Persons shall be so Hardy, as not to give due Obedience to our Directions aforesaid, they shall be prosecuted with the utmost Severity, as Contemners of Their Majesties Royal Authority. And because Rewards as well as Punishments are necessarily con<g ref="char:EOLhyphen"/>ducing to the Discovery of such as shall offend in the particulars aforesaid: We do hereby Publish and Declare, That as we will severely punish such Offenders as aforesaid, the Receivers and Harbourers of them contrary to this Our Proclamation, so We will give a Reward of Twenty Shil<g ref="char:EOLhyphen"/>lings to each <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> who shall give Information against any such Offenders, in any of the aforesaid Paticulars, to be immediately paid out of Their Majesties Treasury, upon Proof of such Offence, or Offences, made before the Lord-Mayor of the said City.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at the Castle of</hi> Dublin, <date>
+                     <hi>the Twentieth Day of</hi> November, <hi>1690. And in the Second Year of Their Majesties Reign.</hi>
+                  </date>
+               </dateline>
+               <signed>JOHN DAVIS.</signed>
+            </closer>
+         </div>
+         <closer>God Save the KING and QUEEN.</closer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Baldwin</hi> near the <hi>Oxford</hi> Arms in <hi>Warwick-lane.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
